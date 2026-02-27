@@ -91,7 +91,7 @@ Transformer Variants
 •	Decoder-only models (e.g., GPT): Optimized for text generation.
 •	Encoder–Decoder models (e.g., T5): Used for translation and summarization.
 Transformers are the backbone of modern Generative AI systems due to their scalability, efficiency, and performance.
-
+.
 3. Generative AI Architecture and Its Applications
 The choice of architecture in Generative AI directly influences its applications and effectiveness. Different architectures excel in different domains based on their structure and learning mechanisms.
 Transformer-Based Applications
